@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "airell",
+    "password": "tauhidjannah",
+    "database": "Merry_Riana",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "rvqhexquokuyli",
+    "password": "901e9cf970d5e84f98d5791aca4aa8704912ed41034792d71a522203b3c9701a",
+    "database": "d6gjkbajifiqls",
+    "host": "ec2-34-233-226-84.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
